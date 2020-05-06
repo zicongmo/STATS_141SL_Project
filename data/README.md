@@ -11,4 +11,4 @@ A brief description of each file is presented below:
 
 ## Merged Datasets
 * `data/project_data.csv`: Combination of `data/kolko_covid_shareable.csv` and `data/unemployment_median_income_cleaned.csv` merged on county ID code (column `county` in kolko dataset and column `FIPS` in unemployment dataset).
-* `data/county_
+* `data/cases_income_poverty_data.csv`: Combination of all three raw datasets.
